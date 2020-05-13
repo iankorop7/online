@@ -1,0 +1,19 @@
+.container{
+  width: 100%;
+  border:1px solid gray;
+}
+header, footer{
+  padding: 1em;
+  color: white;
+  background-color:#000080;
+  clear: left;
+  text-align: center;
+}
+
+article{
+  margin-left: 170px;
+  border-left: 1px solid gray;
+  padding:1em;
+  overflow: hidden;
+
+}
